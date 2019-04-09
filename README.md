@@ -1,1 +1,1 @@
-# MyShoppingNotes
+# DailyNotes
